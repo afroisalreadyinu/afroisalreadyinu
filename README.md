@@ -7,7 +7,8 @@ have always aimed to keep things easy to understand, extend, scale, debug and
 deploy. Here are a couple of entry points to my contributions:
 
 - [miniboss](https://github.com/afroisalreadyinu/miniboss) is a tool for testing
-  container clusters locally.
+  container clusters locally. It's docker-compose with lifecycle events right
+  now, but I intend to add load testing and pytest integration soon.
 
 - [stashpy](https://github.com/afroisalreadyinu/stashpy) is a replacement for
   Logstash that offers much better testability and easier configuration. Also,
