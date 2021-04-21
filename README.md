@@ -20,13 +20,18 @@ deploy. Here are a couple of entry points to my contributions:
   [AWS](http://okigiveup.net/discovering-aws-with-cli-part-1-basics/), here and
   on my blog.
 
+- Go is my current focus in terms of learning. I wrote a rather detailed
+  tutorial on Go tooling ([The How and Why of Go, Part 1:
+  Tooling](http://okigiveup.net/the-how-and-why-of-go-part-1-tooling/)), which I
+  might even follow up on with a second installment.
+
 Working on web software, you inevitably get entangled with all things
 browser-related -- JavaScript, CSS, browser APIs etc. I'm comfortable working in
 this domain, but it's not my main focus.
 
 In a previous career, I did a PhD in Cognitive Science. This gave me the chance
 to read and think about all kinds of interesting topics (you can read my PhD
-thesis titled Situated Concepts and Pre-Linguistic Symbol Use
+thesis titled *Situated Concepts and Pre-Linguistic Symbol Use*
 [here](https://repositorium.ub.uni-osnabrueck.de/handle/urn:nbn:de:gbv:700-201006076293?mode=full)),
 and I'm fairly well-versed in topics related to AI, machine learning, data
 mining and computational linguistics, but I don't primarily work in these areas,
