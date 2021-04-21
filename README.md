@@ -34,8 +34,10 @@ to read and think about all kinds of interesting topics (you can read my PhD
 thesis titled *Situated Concepts and Pre-Linguistic Symbol Use*
 [here](https://repositorium.ub.uni-osnabrueck.de/handle/urn:nbn:de:gbv:700-201006076293?mode=full)),
 and I'm fairly well-versed in topics related to AI, machine learning, data
-mining and computational linguistics, but I don't primarily work in these areas,
-and the deep learning stuff is quite above my head.
+mining and computational linguistics. These skills came in handy when I worked
+as the CTO of a chatbot company, and I try to stay up-to-date by attending
+meet-ups on various topics and reading recent academic research as often as I
+can.
 
 Twitter: [@morphotactics](https://twitter.com/morphotactics)
 
