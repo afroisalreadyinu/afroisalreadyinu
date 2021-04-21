@@ -42,3 +42,5 @@ can.
 Twitter: [@morphotactics](https://twitter.com/morphotactics)
 
 Blog: [OK I GIVE UP](http://okigiveup.net)
+
+LinkedIn: [Me](https://www.linkedin.com/in/ula%C5%9F-t%C3%BCrkmen-74ba4522/)
